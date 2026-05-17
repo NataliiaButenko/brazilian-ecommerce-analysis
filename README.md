@@ -35,4 +35,5 @@ and provide actionable business recommendations.
 
 ## Author
 Nataliia Butenko
+
 **Completed:** May 2026 
