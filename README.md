@@ -1,7 +1,6 @@
 # Brazilian E-Commerce Analysis
 
-End-to-end analytics project based on the 
-[Olist Brazilian E-Commerce dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
+End-to-end analytics project based on the Olist Brazilian E-Commerce dataset.
 The project analyzes marketplace performance, revenue drivers, delivery operations, customer satisfaction, customer retention, and segmentation. The final output includes a Jupyter Notebook analysis, BigQuery SQL queries, and interactive Tableau dashboards.
 
 ## Project Goal
