@@ -100,7 +100,7 @@ These queries are aligned with the main business sections in the Jupyter Noteboo
 - A statistical test confirmed that the difference was significant.
 - Northern and remote states had longer average delivery times.
 
-![Sentiment distribution](visualizations/viz_6_sentiment_delivery.png)
+![Sentiment distribution]()
 ![State delivery satisfaction](visualizations/viz_7_state_delivery_satisfaction.png)
 
 ### Customer Retention and Segmentation
