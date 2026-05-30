@@ -91,6 +91,9 @@ These queries are aligned with the main business sections in the Jupyter Noteboo
 - The top product categories included health_beauty, watches_gifts, and bed_bath_table.
 - Revenue was geographically concentrated, with São Paulo generating the largest share.
 
+![Monthly Revenue](visualizations/viz_1_monthly_revenue.png)
+
+
 ### Customer Experience
 - Late deliveries were strongly associated with lower customer review scores.
 - On-time deliveries had an average review score of 4.21.
@@ -98,12 +101,17 @@ These queries are aligned with the main business sections in the Jupyter Noteboo
 - A statistical test confirmed that the difference was significant.
 - Northern and remote states had longer average delivery times.
 
+![Sentiment distribution](visualizations/viz_6_sentiment_delivery.png)
+![State delivery satisfaction](visualizations/viz_7_state_delivery_satisfaction.png)
+
 ### Customer Retention and Segmentation
 - Repeat purchase rate was very low at approximately 3%.
 - Around 97% of customers purchased only once.
 - RFM analysis showed that many customers belonged to Low Engagement or At Risk segments.
 - Cohort analysis confirmed weak customer retention across most cohorts.
 - The business appeared to rely more on customer acquisition than long-term retention.
+
+![Repeat Customers](visualizations/viz_9_repeat_customers.png)
 
 ## Tableau Dashboard
 
@@ -129,11 +137,31 @@ These queries are aligned with the main business sections in the Jupyter Noteboo
 
 ### Dashboard Preview
 
-![Executive Overview](visualizations/executive_overview.png)
+![Sales & Operations Overview](visualizations/sales_operations_overview.png)
 
-![Customer Experience and Logistics](visualizations/customer_experience_logistics.png)
+![Customer Experience](visualizations/customer_experience.png)
 
-![Customer Retention and Segmentation](visualizations/customer_retention_segmentation.p
+![Customer Retention and Segmentation](visualizations/customer_retention_segmentation.png)
+
+## Business Recommendations
+1. Improve logistics in remote regions
+Delivery delays have a strong negative effect on review scores, especially in regions with longer delivery times.
+
+2. Strengthen customer retention efforts
+Since repeat purchase behavior is very weak, loyalty programs, personalized recommendations, and post-purchase campaigns could improve customer lifetime value.
+
+3. Monitor high-volume sellers with lower ratings
+Sellers with strong revenue but weaker customer satisfaction should be reviewed for operational issues.
+
+4. Optimize bulky product categories
+Furniture-related categories showed lower satisfaction and longer delivery times,
+suggesting opportunities to improve packaging, shipping, and supplier coordination.
+
+5. Reduce geographic concentration risk
+Expanding marketing efforts in underrepresented states could support more balanced long-term growth.
+
+6. Prepare for seasonal demand peaks
+The November revenue spike suggests that Black Friday and holiday campaigns require strong inventory and logistics planning.
 
 ## Author
 Nataliia Butenko
