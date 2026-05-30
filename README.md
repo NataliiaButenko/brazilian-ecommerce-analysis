@@ -49,8 +49,8 @@ brazilian-ecommerce-analysis/
 │   └── rfm.csv
 │
 ├── notebooks/
-│   ├── brazilia_e-commerce_project.ipynb   # Full Python analysis notebook with cleared outputs
-│   ├── 01_data_preparation.ipynb           # Data loading, cleaning, validation, feature engineering, master table creation
+│   ├── brazilia_e-commerce_project.ipynb   # Full consolidated notebook (all stages combined)
+│   ├── 01_data_preparation.ipynb           # Data loading, cleaning, feature engineering, master table
 │   ├── 02_business_analysis.ipynb          # Business performance analysis
 │   └── 03_retention_segmentation.ipynb     # Customer segmentation and cohort analysis
 │
@@ -60,6 +60,9 @@ brazilian-ecommerce-analysis/
 │
 └── README.md
 ```
+
+The analysis is available as a single consolidated notebook (brazilia_e-commerce_project.ipynb) 
+and split into three separate files for GitHub preview compatibility.
 
 ## Key Business Questions
 ### Revenue and Sales Performance
