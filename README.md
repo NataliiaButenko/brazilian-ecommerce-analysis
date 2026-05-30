@@ -131,7 +131,7 @@ These queries are aligned with the main business sections in the Jupyter Noteboo
 
 ### Dashboard pages:
 
-**Executive Overview**
+**Sales & Operations Overview**
 - KPI cards
 - revenue trend
 - revenue by state
