@@ -41,11 +41,24 @@ Incomplete historical months were excluded from the main analysis:
 ```text
 brazilian-ecommerce-analysis/
 │
-├── brazilia_e-commerce_project.ipynb   # Full Python analysis
-├── queries.sql                         # BigQuery SQL business queries
-├── README.md                           # Project documentation
-├── visualizations/                     # Exported charts and dashboard screenshots
-└── tableau/                            # Tableau-related files or dashboard links
+├── data/
+│   ├── README.md
+│   ├── clean_df.zip
+│   ├── cohort_retention_tableau.csv
+│   ├── repeat_customers.csv
+│   └── rfm.csv
+│
+├── notebooks/
+│   ├── brazilia_e-commerce_project.ipynb   # Full Python analysis notebook with cleared outputs
+│   ├── 01_data_preparation.ipynb           # Data loading, cleaning, validation, feature engineering, master table creation
+│   ├── 02_business_analysis.ipynb          # Business performance analysis
+│   └── 03_retention_segmentation.ipynb     # Customer segmentation and cohort analysis
+│
+├── queries.sql
+│
+├── visualizations/
+│
+└── README.md
 ```
 
 ## Key Business Questions
