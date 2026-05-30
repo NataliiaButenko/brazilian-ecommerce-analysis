@@ -50,9 +50,9 @@ brazilian-ecommerce-analysis/
 │
 ├── notebooks/
 │   ├── brazilian_e-commerce_project.ipynb   # Full consolidated notebook (all stages combined)
-│   ├── 01_data_preparation.ipynb           # Data loading, cleaning, feature engineering, master table
-│   ├── 02_business_analysis.ipynb          # Business performance analysis
-│   └── 03_retention_segmentation.ipynb     # Customer segmentation and cohort analysis
+│   ├── 01_data_preparation.ipynb            # Data loading, cleaning, feature engineering, master table
+│   ├── 02_business_analysis.ipynb           # Business performance analysis
+│   └── 03_retention_segmentation.ipynb      # Customer segmentation and cohort analysis
 │
 ├── queries.sql
 │
